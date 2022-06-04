@@ -1,4 +1,6 @@
-# Enabling All Geo-Spatial Analysis Tool
+![gpanda](https://user-images.githubusercontent.com/98616502/171995107-0ec3b891-89b6-4fe6-9969-858381258d22.PNG)
+
+# Enabling Geo-Spatial Analysis
 
 A Repository of tools, to enhance data within the utilites industry 
 
@@ -16,12 +18,10 @@ By using Python (Geemaps) you are able to leverage the analytical capability of 
 
 This is my journey in understanding geo spatial data, and linking it to our Asset Base, by using various analytical techniques. To give a user a visual representation of the region we serve enviromental and social prosperity.
 💦
-![gpanda](https://user-images.githubusercontent.com/98616502/171995107-0ec3b891-89b6-4fe6-9969-858381258d22.PNG)
 
 
 
-Link into Public information - [Analytics Academy -](https://uwwtd.eu/United-Kingdom/treatment-plant/ukenanawtp000002/2012)
-
+Link into Public information - [Public Information that could be used](https://uwwtd.eu/United-Kingdom/treatment-plant/ukenanawtp000002/2012)
 
 ![blocks on site](https://user-images.githubusercontent.com/98616502/171998442-396e6554-9c27-4189-9838-2079e2d80fc6.PNG)
 
