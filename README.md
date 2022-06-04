@@ -40,7 +40,7 @@ using any notebook you can visualise your data with just a few lines of code to 
 
 ## A Utilities Water Site, Equipment grouped by Asset or Process
 
-![blocks on site](https://user-images.githubusercontent.com/98616502/171998442-396e6554-9c27-4189-9838-2079e2d80fc6.PNG)
+![google colab](https://user-images.githubusercontent.com/98616502/171999037-30db0aa2-7ae9-4737-8b06-136fb62b6664.PNG)
 
 
 
