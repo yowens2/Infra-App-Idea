@@ -11,7 +11,7 @@ Geo Analysis,
 Data Quality Tools 
 
 
-# **The Benefit of using Map Data, to Enahnce SAP Data**
+### **The Benefit of using Map Data, to Enahnce SAP Data**
 
 💦With the use of Python on the boom being adopted, in the Analaytics Acadmey, Telling Stories through Data is even more important to insure, that the data we provide is relatable and beliavble. 
 
