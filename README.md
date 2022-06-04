@@ -34,10 +34,7 @@ I will call it using python
 using any notebook you can visualise your data with just a few lines of code to start enabling further analysis and visualisation. 
 
 ##### This is a google colab notebook
-
 ![google colab](https://user-images.githubusercontent.com/98616502/171998861-1b1f4ce2-90bd-49bd-9179-c524099823bc.PNG)
-
-
 ## A Utilities Water Site, Equipment grouped by Asset or Process
 
 ![google colab](https://user-images.githubusercontent.com/98616502/171999037-30db0aa2-7ae9-4737-8b06-136fb62b6664.PNG)
