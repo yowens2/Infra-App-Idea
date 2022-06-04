@@ -33,11 +33,12 @@ I will call it using python
 
 using any notebook you can visualise your data with just a few lines of code to start enabling further analysis and visualisation. 
 
-[This is a google colab notebook]
+##### This is a google colab notebook
+
 ![google colab](https://user-images.githubusercontent.com/98616502/171998861-1b1f4ce2-90bd-49bd-9179-c524099823bc.PNG)
 
 
-##A Utilities Water Site, Equipment grouped by Asset or Process
+## A Utilities Water Site, Equipment grouped by Asset or Process
 
 ![blocks on site](https://user-images.githubusercontent.com/98616502/171998442-396e6554-9c27-4189-9838-2079e2d80fc6.PNG)
 
@@ -45,6 +46,6 @@ using any notebook you can visualise your data with just a few lines of code to 
 
 ## Equipment and Site Area Analysis 
 
-easily draw out an area and get quick insights 
+Easily draw out an area and get quick insights 
 
 ![site dimension block](https://user-images.githubusercontent.com/98616502/171998444-0fbf1ac7-ce7c-4737-aa37-3fc72f123a92.PNG)
